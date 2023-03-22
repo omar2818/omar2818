@@ -51,5 +51,6 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
 </p>
----
-[![](https://visitcount.itsvg.in/api?id=omar2818&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in/api?id=omar2818&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in" target="_blank"> 
+     <img alt="JavaScript" src="https://visitcount.itsvg.in/api?id=omar2818&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in">
+   </a>
