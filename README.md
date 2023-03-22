@@ -51,6 +51,21 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
 </p>
+
+###  Competitive Programming & Problem Solving
+  
+  <div align="center" width=100%>
+  <a href="https://codeforces.com/profile/OmarWae1"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
+	  &emsp; 
+	<a href="https://leetcode.com/OmarWael1/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width=%6/></a>
+	  &emsp; 
+	<a href="https://atcoder.jp/users/Omar_wae1"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width=6%/></a>
+	  &emsp; 
+	<a href="https://www.codechef.com/users/omar_wae1"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef" width=6%/></a>
+	  &emsp; 
+	</div>
+
+
 <a href="https://visitcount.itsvg.in/api?id=omar2818&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in" target="_blank"> 
      <img alt="JavaScript" src="https://visitcount.itsvg.in/api?id=omar2818&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in">
    </a>
