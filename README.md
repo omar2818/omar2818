@@ -14,10 +14,4 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![React.js](https://badges.aleen42.com/src/react.svg)
 ---
-<p align="center">
-
-
-[![](https://visitcount.itsvg.in/api?id=omar2818&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</p>
-
+[![](https://visitcount.itsvg.in/api?id=omar2818&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
