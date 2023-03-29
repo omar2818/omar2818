@@ -1,5 +1,5 @@
 ### Hi there 👋 i'm Omar Wael Abdelrady
-
+- 🔭 I’m currently working on Online book store with book recommendation system (Individual Graduation Project).
 - I’m currently studying at arab open university
 - I’m senior computer science student
 - 🌱 I’m currently learning machine learning and front end
