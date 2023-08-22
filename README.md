@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on Online book store with book recommendation system (Individual Graduation Project).
 - I’m currently studying at arab open university
 - I’m senior computer science student
-- 🌱 I’m currently learning machine learning and front end
+- 🌱 I’m currently learning machine learning and Backend
 - 🤔 I’m interesting in problem solving and competitive programming
 
 
