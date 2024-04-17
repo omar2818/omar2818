@@ -1,9 +1,8 @@
 ### Hi there 👋 i'm Omar Wael Abdelrady
-- 🔭 I’m currently working on Online book store with book recommendation system (Individual Graduation Project).
-- I’m currently studying at arab open university
-- I’m senior computer science student
-- 🌱 I’m currently learning machine learning and Backend
+- I’m fresh graduate from arab open university
+- 🌱 I’m currently learning Backend using ASP.Net
 - 🤔 I’m interesting in problem solving and competitive programming
+- I’m ACPC finalist
 
 
 # Skills:
