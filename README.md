@@ -1,4 +1,5 @@
 ### Hi there 👋 i'm Omar Wael Abdelrady
+- I’m Software Engineer @ Mufaddal for food industries
 - I’m Backend(ASP.Net) mentor @ Route
 - I’m fresh graduate from arab open university
 - 🌱 I’m currently learning Backend using ASP.Net
